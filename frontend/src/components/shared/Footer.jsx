@@ -13,20 +13,20 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const socials = [
-    { icon: RiGithubFill, link: "https://github.com/Pintu-Kumar-1709" },
+    { icon: RiGithubFill, link: "https://github.com/Sanket-Dhage" },
     {
       icon: RiLinkedinBoxFill,
-      link: "https://www.linkedin.com/in/pintu-kumar-12x",
+      link: "https://www.linkedin.com/in/sanket-dhage-028a78274/",
     },
-    { icon: RiTwitterXFill, link: "https://x.com/babu_sajan_12" },
-    { icon: RiInstagramFill, link: "https://instagram.com/babu_sajan_12" },
+    { icon: RiTwitterXFill, link: "https://x.com/Sankya_3_9" },
+    { icon: RiInstagramFill, link: "https://www.instagram.com/san_kya_3_9/" },
     {
       icon: RiFacebookCircleFill,
-      link: "https://www.facebook.com/Mrkumar.Sajan.12x",
+      link: "https://www.facebook.com/Sankya_3_9",
     },
     {
       icon: RiRedditFill,
-      link: "https://www.reddit.com/u/KumarrR_12x/s/y85m0My7iZ",
+      link: "https://www.reddit.com/",
     },
   ];
 
