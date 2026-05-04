@@ -64,7 +64,7 @@ const Navbar = () => {
                 </li>
                 <li>
                   {" "}
-                  <Link to="/jobs">Jobs</Link>
+                  <Link to="/jobs">Job's</Link>
                 </li>
                 <li>
                   {" "}
